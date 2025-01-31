@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-user-drag: none; /* 禁止拖曳（WebKit） */
+    user-select: none; /* 禁止選取 */
+    -webkit-user-select: none; /* 適用於 Safari 和 Chrome */
+    -moz-user-select: none; /* 適用於 Firefox */
+    -ms-user-select: none; /* 適用於 IE/Edge */
+}
